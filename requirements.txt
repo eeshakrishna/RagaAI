@@ -17,5 +17,7 @@ scipy
 pyttsx3
 gtts
 pygame
+langchain
+
 
 
