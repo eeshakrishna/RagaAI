@@ -1,0 +1,7 @@
+# Create or edit .gitignore file
+echo "venv/" >> .gitignore
+echo "*.dll" >> .gitignore
+echo "*.lib" >> .gitignore
+echo "*.db" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
